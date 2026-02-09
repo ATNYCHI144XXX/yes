@@ -1,4 +1,4 @@
-# yesQuantum-encrypted battlefield communications (QCOMM)
+# yesQuantum-encrypted battlefield communications (QCOMM),
 
 Description: An un-hackable communication system that uses entangled quantum particles to generate one-time encryption keys. Unlike traditional encryption, any attempt to intercept the key collapses its quantum state, instantly alerting both sender and receiver of a breach. The system is bound to symbolic operators, meaning authentication is tied to a user's unique harmonic signature, not just a password.   i need a full white paper on this with a hash and time stampGen-5 strategic command systems (Eido-morphic overlays)
 
